@@ -1,0 +1,16 @@
+C:\Users\gp0\Documents\ngan\fukuv0524\fukuv0524\bin\Debug\net6.0-windows\fukuv0524.exe
+C:\Users\gp0\Documents\ngan\fukuv0524\fukuv0524\bin\Debug\net6.0-windows\fukuv0524.deps.json
+C:\Users\gp0\Documents\ngan\fukuv0524\fukuv0524\bin\Debug\net6.0-windows\fukuv0524.runtimeconfig.json
+C:\Users\gp0\Documents\ngan\fukuv0524\fukuv0524\bin\Debug\net6.0-windows\fukuv0524.dll
+C:\Users\gp0\Documents\ngan\fukuv0524\fukuv0524\bin\Debug\net6.0-windows\fukuv0524.pdb
+C:\Users\gp0\Documents\ngan\fukuv0524\fukuv0524\obj\Debug\net6.0-windows\fukuv0524.Form1.resources
+C:\Users\gp0\Documents\ngan\fukuv0524\fukuv0524\obj\Debug\net6.0-windows\fukuv0524.csproj.GenerateResource.cache
+C:\Users\gp0\Documents\ngan\fukuv0524\fukuv0524\obj\Debug\net6.0-windows\fukuv0524.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gp0\Documents\ngan\fukuv0524\fukuv0524\obj\Debug\net6.0-windows\fukuv0524.AssemblyInfoInputs.cache
+C:\Users\gp0\Documents\ngan\fukuv0524\fukuv0524\obj\Debug\net6.0-windows\fukuv0524.AssemblyInfo.cs
+C:\Users\gp0\Documents\ngan\fukuv0524\fukuv0524\obj\Debug\net6.0-windows\fukuv0524.csproj.CoreCompileInputs.cache
+C:\Users\gp0\Documents\ngan\fukuv0524\fukuv0524\obj\Debug\net6.0-windows\fukuv0524.dll
+C:\Users\gp0\Documents\ngan\fukuv0524\fukuv0524\obj\Debug\net6.0-windows\refint\fukuv0524.dll
+C:\Users\gp0\Documents\ngan\fukuv0524\fukuv0524\obj\Debug\net6.0-windows\fukuv0524.pdb
+C:\Users\gp0\Documents\ngan\fukuv0524\fukuv0524\obj\Debug\net6.0-windows\fukuv0524.genruntimeconfig.cache
+C:\Users\gp0\Documents\ngan\fukuv0524\fukuv0524\obj\Debug\net6.0-windows\ref\fukuv0524.dll
